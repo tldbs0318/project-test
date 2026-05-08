@@ -23,7 +23,7 @@ python test_electric_scooter.py
 ```
 1) 화질 개선 전 영상 테스트: result_test.mp4 참고
 
-<img width="383" height="90" alt="Image" src="https://github.com/user-attachments/assets/18b229e8-eaf9-429e-b504-0dd59dda82cf" />
+<img width="383" height="90" alt="Image" src="https://github.com/user-attachments/assets/a16ac032-fee2-4bbe-b4b7-bd4156ffed42" />
 
 *카카오톡 영상 전송 시 화질 저하*
 
