@@ -10,7 +10,9 @@ test_electric_scooter.py 혹은 electric_scooter.zip 저장
 
 2) electric_scooter.zip 다운로드
   압축해제 후 VS CODE로 실행
+```
 
-# 3. 주의사항
+# 3. Caution
+```
   프레임 계산을 통한 정확도 산출이기 때문에 test.mp4 영상은 전동킥보드가 촬영된 부분만 잘라서 실행
 ```
