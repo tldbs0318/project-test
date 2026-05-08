@@ -1,6 +1,6 @@
 # 1. Getting Started
 ```
-test_electric_scooter.py와 test.mp4 혹은 electric_scooter.zip 저장
+test_electric_scooter.py와 test.mp4 혹은 electric_scooter_model_test.zip 저장
 
 1) test_electric_scooter.py, test.pm4 다운로드
   PM-tracker.pt, test.mp4와 같은 폴더에 저장 후 VS CODE로 실행
