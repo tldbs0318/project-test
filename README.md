@@ -20,7 +20,8 @@ test_electric_scooter.py와 test.mp4 혹은 electric_scooter.zip 저장
 # Test result
 ```
 1) 화질 개선 전 영상 테스트
-![Image](https://github.com/user-attachments/assets/ec914016-1b9e-4765-b07a-c1a0b8591821)
+
+<img width="383" height="90" alt="Image" src="https://github.com/user-attachments/assets/194881dd-64cb-42b3-84a5-b5193bd27c7f" />
 **카카오톡 영상 전송 시 화질 저하**
 
 2) 화질 개선 후 영상 테스트(원본 촬영 영상)
