@@ -22,10 +22,12 @@ test_electric_scooter.py와 test.mp4 혹은 electric_scooter.zip 저장
 1) 화질 개선 전 영상 테스트
 
 <img width="383" height="90" alt="Image" src="https://github.com/user-attachments/assets/194881dd-64cb-42b3-84a5-b5193bd27c7f" />
+
 **카카오톡 영상 전송 시 화질 저하**
 
 2) 화질 개선 후 영상 테스트(원본 촬영 영상)
 
-![image](https://github.com/user-attachments/assets/94541bec-b240-4b28-a906-4e19c8d1db23)
+<img width="384" height="89" alt="Image" src="https://github.com/user-attachments/assets/73cacac6-9c4c-4d94-bda9-b770a8b71899" />
+
 => 화질에 따른 정확도 차이 존재
 ```
